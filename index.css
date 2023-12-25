@@ -11,6 +11,7 @@
     --secondary-bg-color: #0066ff;
     --font: "Poppins";
 }
+
 body {
     background-color: var(--bg-color);
     font-family: var(--font);
